@@ -7,6 +7,7 @@ public class jenkinsTest {
 	@Test
 	public void demo() {
 		Reporter.log("add class added",true);
+		Reporter.log("on poll scm",true);
 		
 	} 
 

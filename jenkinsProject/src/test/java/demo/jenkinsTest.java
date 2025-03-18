@@ -9,6 +9,7 @@ public class jenkinsTest {
 		Reporter.log("add class added",true);
 		Reporter.log("on poll scm",true);
 		Reporter.log("on poll 3scm",true);
+		Reporter.log("on poll 4scm",true);
 		
 	} 
 
